@@ -1,4 +1,4 @@
-### OI! 👋
+### HI! MY NAME IS KAIKI 👋
 ![bojji](https://github.com/Kaiki098/Kaiki098/assets/127666620/09318135-dde7-4afc-9d96-9a17d2382207)
 
 Here are some things about me:
