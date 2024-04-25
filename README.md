@@ -1,4 +1,4 @@
-### Hi there 👋
+### OI! 👋
 
 <!--
 **Kaiki098/Kaiki098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+:chart_with_upwards_trend: My status:
+<div>
+<a href="https://github.com/helendessa">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiki098&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiki098&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
