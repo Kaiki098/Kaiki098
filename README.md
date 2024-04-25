@@ -2,14 +2,13 @@
 Here are some things about me:
 
 - 🔭 I’m currently pursuing a degree in Computer Science
-- 🌱 I’m currently learning about Android and Web development
-- 📫 How to reach me: kaikialvarengasouza098@gmail.com
-- 😄 Pronouns: He/Him
+- 🌱 Some of my latests interests were about Native Android Development using Kotlin and Web Development
+- 😄 My pronouns are He and Him
+- 📫 You can reach me by the following email: kaikialvarengasouza098@gmail.com
  <!--- 👯 I’m looking to collaborate on ...
  🤔 I’m looking for help with ... 
 💬 Ask me about ...-->
 <!--- ⚡ Fun fact: ...-->
-
 ---
 :chart_with_upwards_trend: My status:
 <div>
