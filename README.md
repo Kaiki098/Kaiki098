@@ -1,5 +1,5 @@
 ### OI! 👋
-Here are some ideas to get you started:
+Here are some things about me:
 
 - 🔭 I’m currently pursuing a degree in Computer Science
 - 🌱 I’m currently learning about Android and Web development
