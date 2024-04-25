@@ -1,7 +1,9 @@
 ### OI! 👋
+![bojji](https://github.com/Kaiki098/Kaiki098/assets/127666620/09318135-dde7-4afc-9d96-9a17d2382207)
+
 Here are some things about me:
 
-- 🔬 I’m currently pursuing a degree in Computer Science
+ - 🔬 I’m currently pursuing a degree in Computer Science
 - 💻 Some of my latests interests were about Native Android Development using Kotlin and Web Development
 - 😄 My pronouns are He and Him
 - 📫 You can reach me by the following email: kaikialvarengasouza098@gmail.com
@@ -9,6 +11,8 @@ Here are some things about me:
  🤔 I’m looking for help with ... 
 💬 Ask me about ...-->
 <!--- ⚡ Fun fact: ...-->
+
+ 
 ---
 :chart_with_upwards_trend: My status:
 <div>
@@ -16,5 +20,5 @@ Here are some things about me:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiki098&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiki098&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-![bojji](https://github.com/Kaiki098/Kaiki098/assets/127666620/a6877391-fb84-48ec-9757-35bba6549e50)
+ 
 
