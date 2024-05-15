@@ -1,6 +1,8 @@
 ### Hi! My name is Kaiki 👋
 
----![boji](https://github.com/Kaiki098/Kaiki098/assets/127666620/c0b08b0b-ac27-42b9-9cc4-83df99136e0a)
+<div align="center">
+ <img width="720px" title="Ranking of Kings" src="https://github.com/Kaiki098/Kaiki098/assets/127666620/09c29762-558b-4f3a-933f-5cb77e739d80"/>
+</div>
 
 Here are some things about me:
 
@@ -15,7 +17,7 @@ Here are some things about me:
 
 
 :chart_with_upwards_trend: My status:
-<div>
+<div align="center">
 <a href="https://github.com/Kaiki098">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiki098&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiki098&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
