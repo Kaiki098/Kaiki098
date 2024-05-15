@@ -1,5 +1,6 @@
 ### Hi! My name is Kaiki 👋
 
+---![boji](https://github.com/Kaiki098/Kaiki098/assets/127666620/c0b08b0b-ac27-42b9-9cc4-83df99136e0a)
 
 Here are some things about me:
 
@@ -12,8 +13,7 @@ Here are some things about me:
 💬 Ask me about ...-->
 <!--- ⚡ Fun fact: ...-->
 
- 
----
+
 :chart_with_upwards_trend: My status:
 <div>
 <a href="https://github.com/Kaiki098">
