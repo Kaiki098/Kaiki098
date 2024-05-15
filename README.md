@@ -2,7 +2,9 @@
 
 <div align="center">
  <img  width="720px" title="Ranking of Kings" src="https://github.com/Kaiki098/Kaiki098/assets/127666620/09c29762-558b-4f3a-933f-5cb77e739d80"/>
+<p></p>
 </div>
+
 
 Here are some things about me:
 
