@@ -11,6 +11,7 @@ Here are some things about me:
  - 🔬 I’m currently pursuing a degree in Computer Science
 - 💻 Some of my latests interests were about Native Android Development using Kotlin and Web Development
 - 😄 My pronouns are He and Him
+- ❤️ I really love coding
 - 📫 You can reach me by the following email: kaikialvarengasouza098@gmail.com
  <!--- 👯 I’m looking to collaborate on ...
  🤔 I’m looking for help with ... 
