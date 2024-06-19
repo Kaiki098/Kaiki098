@@ -1,5 +1,5 @@
 ### Hi! My name is Kaiki 👋
-
+[![wakatime](https://wakatime.com/badge/user/7541ddec-602f-4462-ae51-59f459d6acca.svg)](https://wakatime.com/@7541ddec-602f-4462-ae51-59f459d6acca)
 <div align="center">
  <img  width="720px" title="Ranking of Kings" src="https://github.com/Kaiki098/Kaiki098/assets/127666620/09c29762-558b-4f3a-933f-5cb77e739d80" alt="Image from the anime Ranking of Kings, Bojji and Kage lying on the grass watching the fireflies"/>
 <p></p>
