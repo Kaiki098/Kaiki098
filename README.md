@@ -15,11 +15,11 @@
 ### :chart_with_upwards_trend: My status:
 <div align="center">
  <a href="https://github.com/Kaiki098">
-  <img loading="lazy" height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiki098&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-  <img loading="lazy" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kaiki098&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiki098&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiki098&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
  <a/>
  <a href="https://wakatime.com/@Kaiki098">
-  <img loading="lazy" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kaiki098&theme=merko&langs_count=5"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kaiki098&theme=merko&langs_count=5"/>
  <a/>
 </div>
 
