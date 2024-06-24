@@ -36,5 +36,5 @@
  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />       
 </div>
 
-![snake gif](https://github.com/Kaiki098/Kaiki098/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Kaiki098/Kaiki098/blob/output/github-contribution-grid-snake.svg)
 
