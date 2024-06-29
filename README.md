@@ -24,7 +24,7 @@
 </div>
 
 ### 📱 I use these technologies in my projects:
-<div display=inline-block>
+<div display="inline-block">
  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />        
  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
