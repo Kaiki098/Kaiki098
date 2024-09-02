@@ -1,18 +1,18 @@
-# Hi! My name is Kaiki 👋
+# Oi! Meu nome é Kaiki 👋
 [![wakatime](https://wakatime.com/badge/user/7541ddec-602f-4462-ae51-59f459d6acca.svg)](https://wakatime.com/@7541ddec-602f-4462-ae51-59f459d6acca)
 
 <img  width="40%"  align="right" title="Ranking of Kings" src="https://github.com/Kaiki098/Kaiki098/assets/127666620/09c29762-558b-4f3a-933f-5cb77e739d80" alt="Image from the anime Ranking of Kings: Bojji and Kage lying on the grass watching the fireflies"/>
 
-### 🧑‍💻 Here are some things about me:
+### 🧑‍💻 Aqui estão algumas coisas sobre mim:
 
-- 🔬 I’m currently pursuing a degree in Computer Science
-- 💻 Some of my latests interests were about Native Android Development using Kotlin and Web Development
-- 😄 My pronouns are He and Him
-- ❤️ I really love coding
-- 📫 Reach me by the following email: kaikialvarengasouza098@gmail.com
+- 🔬 Atualmente estou cursando Ciência da Computação
+- 💻 Alguns dos meus interesses mais recentes foram sobre Desenvolvimento Nativo Android usando Kotlin e Desenvolvimento Web
+- 😄 Meus pronomes são Ele e Ele
+- ❤️ Eu realmente amo programar
+- 📫 Entre em contato comigo pelo seguinte e-mail: kaikialvarengasouza098@gmail.com
 
 
-### :chart_with_upwards_trend: My status:
+### :chart_with_upwards_trend: Meus status:
 <div align="left" display="inline-block">
  <a href="https://github.com/Kaiki098">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiki098&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -23,7 +23,7 @@
  <a/>
 </div>
 
-### 📱 I use these technologies in my projects:
+### 📱 Eu uso essas tecnologias em meus projetos:
 <div display="inline-block">
  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />        
