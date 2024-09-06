@@ -7,7 +7,7 @@
 
 - 🔬 Atualmente estou cursando Ciência da Computação
 - 💻 Alguns dos meus interesses mais recentes foram sobre Desenvolvimento Nativo Android usando Kotlin e Desenvolvimento Web
-- 😄 Meus pronomes são Ele e Ele
+- 😄 Meus pronomes são Ele e dele
 - ❤️ Eu realmente amo programar
 - 📫 Entre em contato comigo pelo seguinte e-mail: kaikialvarengasouza098@gmail.com
 
