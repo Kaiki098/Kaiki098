@@ -36,6 +36,8 @@
  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />       
 </div>
 
+<figure><embed src="https://wakatime.com/share/@Kaiki098/c4a3d48c-d994-4c59-bd8f-9cb73e6d4938.svg"></embed></figure>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaiki098/Kaiki098/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaiki098/Kaiki098/output/github-contribution-grid-snake.svg">
